@@ -1,0 +1,121 @@
+/* section{
+
+    margin-bottom: 20px;
+   border: 2px solid green;
+    
+} */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+body {
+    padding: 0px;
+    margin: 0px;
+    /* border: 2px solid red; */
+}
+.n h5{
+background-color: black;
+color:white;
+height: 40px;
+padding: 8px;
+
+}
+.n2{
+    /* border:2px solid pink; */
+    background-color: black;
+    height:40px;
+    display: flex;
+   
+
+}
+.col{
+    display: flex;
+    /* border: 2px solid red; */
+   
+   
+}
+.bi{
+    padding: 10px;
+    font-size: 20px;
+}
+.btn-new{
+    background-color: white;
+    padding: 1px;
+    position: center;
+}
+
+.nav-item{
+    background-color: black;
+    color:white;
+    /* border: 2px solid pink; */
+ 
+
+}
+.bb{
+    background-color: black;
+    
+}
+.img{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.nn{
+    background-color:white;
+        color: black;
+        height: 40px;
+        padding: 8px;
+}
+nav li{
+    list-style-type: none;
+}
+
+.card-body a{
+    color: black;
+}
+
+.card-body a:hover{
+    color: pink;
+}
+
+.card .btn{
+    position: relative;
+    left: 20%;
+    width: 170px;
+}
+.card .btn:hover{
+    background-color: lightslategray;
+}
+
+.card-text{
+    text-decoration: none;
+}
+
+.about{
+    background-color: papayawhip;
+    text-align: center;
+    height: 36rem;
+    padding:10px;
+   
+margin: 15px;
+}
+.card-img-1{
+    padding: 10px;
+    height: 100px;
+    width: 100%;
+}
+.icons{
+    text-align: center;
+    border: 2px solid black;
+}
+.last{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    height: 75vh;
+    
+}
+
+.last a{
+    text-decoration: none;
+    color: white;
+    line-height: 2;
+}
